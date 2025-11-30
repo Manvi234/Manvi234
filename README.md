@@ -11,7 +11,7 @@
 
 - 🌱 Actively building with Large Language Models (LLMs), including RAG, prompting strategies, and LLM evaluation.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manvi234/Projects](https://github.com/Manvi234/Projects)
+- 👩‍💻 Explore my projects built with Python, SQL, LLMs & RAG at [https://github.com/Manvi234/Projects](https://github.com/Manvi234/Projects)
 
 - 💬 Ask me about **Prompt Engineering, RAG Systems, Transformer Architectures, End-to-End ML Deployment, and Advanced Data Visualization**
 
