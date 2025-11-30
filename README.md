@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manvi Gawande</h1>
-<h3 align="center">Deep Learning Engineer | LLM Development & Data Science 🧠</h3>
+<h3 align="center">Data Scientist | Deep Learning & LLM Development 🧠</h3>
 
 
 
@@ -9,7 +9,7 @@
 - 🔭 Currently building: An enterprise-grade RAG system with guardrails (FinGuard-AI).
 
 
-- 🌱 I’m currently learning **Large Language Model (LLMs)**
+- 🌱 Actively building with Large Language Models (LLMs), including RAG, prompting strategies, and LLM evaluation.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manvi234/Projects](https://github.com/Manvi234/Projects)
 
