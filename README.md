@@ -1,8 +1,8 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/59d9b2749f8dce3ebe4e676d/1516589724361-VFYWDK9T32VHB1OO72Z9/ML-word-cloud.png)
 
 <h1 align="center">Hi 👋, I'm Manvi Gawande</h1>
 <h3 align="center">Deep Learning Engineer | LLM Development & Data Science 🧠</h3>
-<img align="right" alt="Coding" width = "400" src="https://media.tenor.com/F0JE157P1loAAAAC/mio-akiyama-computer.gif"/>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvi234&label=Profile%20views&color=fdf408&style=plastic" alt="manvi234" /> </p>
 
