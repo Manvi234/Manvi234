@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvi234&label=Profile%20views&color=fdf408&style=plastic" alt="manvi234" /> </p>
 
-- 🔭 The project I am proud of **Wildlife Conservation and Analysis using Machine Learning** available at [https://wildlife-conservation.streamlit.app](https://wildlife-conservation.streamlit.app)
+- 🔭 Currently building: An enterprise-grade RAG system with guardrails (FinGuard-AI).
+
 
 - 🌱 I’m currently learning **Large Language Model (LLMs)**
 
